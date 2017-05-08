@@ -1,0 +1,8 @@
+indexes:
+
+- kind: Variable
+  properties:
+  - name: name
+    direction: asc
+  - name: value
+    direction: asc
